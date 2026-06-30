@@ -11,7 +11,7 @@ ________  ___  ___  _____ ______   ________  ________          ________  ___   _
 
 
 
- [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/razagoat12.svg?variant=secondary&size=sm)](https://github.com/razagoat12?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-9-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/razagoat12?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Islamabad%2C_Pakistan-6366f1.svg?logo=googlemaps&variant=ghost&size=sm) 
+ [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/razagoat12.svg?variant=secondary&size=sm)](https://github.com/razagoat12?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-13-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/razagoat12?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Islamabad%2C_Pakistan-6366f1.svg?logo=googlemaps&variant=ghost&size=sm) 
 
 </div>
 
