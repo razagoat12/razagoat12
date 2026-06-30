@@ -10,11 +10,8 @@ ________  ___  ___  _____ ______   ________  ________          ________  ___   _
 <div align="center">
 
 
-**Trying to build cool stuff!!**
 
-[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40razagoat12-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/razagoat12)
-
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/razagoat12.svg?variant=secondary&size=sm)](https://github.com/razagoat12?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/razagoat12.svg?variant=secondary&size=sm)](https://github.com/razagoat12?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-9-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/razagoat12?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Islamabad%2C_Pakistan-6366f1.svg?logo=googlemaps&variant=ghost&size=sm) ![Company](https://www.shieldcn.dev/badge/Company-ScholarSync-1f2937.svg?logo=building&variant=ghost&size=sm)
+ [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/razagoat12.svg?variant=secondary&size=sm)](https://github.com/razagoat12?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-9-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/razagoat12?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Islamabad%2C_Pakistan-6366f1.svg?logo=googlemaps&variant=ghost&size=sm) 
 
 </div>
 
