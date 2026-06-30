@@ -9,7 +9,6 @@ ________  ___  ___  _____ ______   ________  ________          ________  ___   _
 ```
 <div align="center">
 
-# Hi, I'm Ahmad Hassan Raza 👋
 
 **Trying to build cool stuff!!**
 
@@ -23,9 +22,6 @@ ________  ___  ___  _____ ______   ________  ________          ________  ___   _
 
 ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm) ![Prettier](https://www.shieldcn.dev/badge/-Prettier-F7B93E.svg?logo=prettier&variant=branded&size=sm) ![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm) ![Firebase](https://www.shieldcn.dev/badge/-Firebase-DD2C00.svg?logo=firebase&variant=branded&size=sm) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm) ![Zustand](https://www.shieldcn.dev/badge/-Zustand-FFB800.svg?logo=zustand&variant=branded&size=sm)
 
-## 📦 Top Repositories
-
-[![Multiple-Linear-Regression-Model ⭐ 3](https://www.shieldcn.dev/github/stars/razagoat12/Multiple-Linear-Regression-Model.svg?variant=secondary&size=sm)](https://github.com/razagoat12/Multiple-Linear-Regression-Model) [![MyCoffee ⭐ 3](https://www.shieldcn.dev/github/stars/razagoat12/MyCoffee.svg?variant=secondary&size=sm)](https://github.com/razagoat12/MyCoffee) [![Scholar-Sync ⭐ 3](https://www.shieldcn.dev/github/stars/razagoat12/Scholar-Sync.svg?variant=secondary&size=sm)](https://github.com/razagoat12/Scholar-Sync) [![Flow-App ⭐ 2](https://www.shieldcn.dev/github/stars/razagoat12/Flow-App.svg?variant=secondary&size=sm)](https://github.com/razagoat12/Flow-App)
 
 ---
 
