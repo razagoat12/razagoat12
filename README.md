@@ -25,4 +25,4 @@ ________  ___  ___  _____ ______   ________  ________          ________  ___   _
 
 ---
 
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
+
